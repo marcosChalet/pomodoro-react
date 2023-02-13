@@ -1,46 +1,31 @@
-# Getting Started with Create React App
+<div align="center">
+  <image width="180px" height="180px" src="https://user-images.githubusercontent.com/72557256/211673329-8e6b2194-c102-4ee9-bde4-da2192d6c9f0.png" />
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2 align="center">:bell:<b>Pomodoro React App</b></h2>
 
-## Available Scripts
+<br>
 
-In the project directory, you can run:
+<img src="http://img.shields.io/static/v1?label=STATUS&message=FINISHED&color=green&style=for-the-badge"/>
 
-### `npm start`
+<br><br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Visite-me
+> *Veja em produção [aqui](https://pomodoro-react-six.vercel.app/)!*
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<br>
 
-### `npm test`
+## Sobre
+> Pomodoro app feito durante o módulo de ReactJs + Typescript do professor *Luiz Otávio*, com algumas alterações como deploy na *Vercel* e uso de *Tailwind*...
+> 
+> [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/share/1026xa3@XPm1Tkp7nviJ6QKcE5DDpXkR0w1HadY6M6HMG-OQF-ZTo08ns-GLYW_6r5ERwhCmxw==/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br>
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Tecnologias
+> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+> ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+> ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)&nbsp;
+> ![Prettier](https://img.shields.io/badge/Prettier-5c8da2.svg?style=for-the-badge&logo=prettier)&nbsp;
+> ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
